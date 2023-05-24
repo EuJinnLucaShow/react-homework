@@ -5,11 +5,10 @@ function App() {
   return (
     <AppDiv>
       <AppHeader>
-        <AppLogo src={logo} alt="logo" />
-        <p>npm run deploy + npm run build</p>
+        <AppLogo src={logo} alt="logo" />        
         <p>Victor special for you! 👨🏽‍💻</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload. npm run deploy
         </p>
         <AppLink
           href="https://reactjs.org"
