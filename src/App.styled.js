@@ -26,7 +26,7 @@ export const AppHeader = styled.header`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(20px + 2vmin);
+  font-size: calc(30px + 2vmin);
   color: black;  
 `
 
