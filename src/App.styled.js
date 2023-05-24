@@ -20,7 +20,7 @@ export const AppLogo = styled.img`
 `
 
 export const AppHeader = styled.header`
-  background-color: white;
+  background-color: purple;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
