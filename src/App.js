@@ -6,7 +6,7 @@ function App() {
     <AppDiv>
       <AppHeader>
         <AppLogo src={logo} alt="logo" />
-        <p>Hello</p>
+        <p>npm run deploy</p>
         <p>Victor special for you! 👨🏽‍💻</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
